@@ -1,0 +1,9 @@
+# Basudev's Custom Sky Maker - Python Requirements
+# Install all at once by running:
+# pip install -r requirements.txt
+
+# Image processing — used for panorama conversion, face generation, blending
+Pillow>=9.0.0
+
+# Math & array processing — used for pixel manipulation and cube mapping
+numpy>=1.21.0
